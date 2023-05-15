@@ -13,6 +13,6 @@ var age = 31
 var phoneNumber = 3039999999
 var license = 989765
 
-var blackHaair = true
+var blackHair = true
 var married = true
 var citizen = true
